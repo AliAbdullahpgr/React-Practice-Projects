@@ -1,6 +1,3 @@
-Got it! Here’s a **single, ready-to-use `README.md` file** for your React-Practice repo. You can copy it directly into your repo root:
-
-````md
 # React JS Practice Projects 🚀
 
 This repository contains **React JS practice projects** learned from *Chai with Code*.  
@@ -66,4 +63,5 @@ npm run dev
 ⭐ **Star this repo** if you find these projects useful for learning React!
 
 ```
+
 
